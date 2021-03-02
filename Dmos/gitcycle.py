@@ -1,0 +1,5 @@
+print("Hi Prince")
+# (Note left by Piotr) - all seems fine, but you got the "bash: basics/output/escape_characters.py: Permission denied" error becasue you did not put the word "python" (no quotes" in front of the path)
+print ('first action: "git add."')
+print ('second step: git commit -m \"your messege\"')
+print ("third: git push")
