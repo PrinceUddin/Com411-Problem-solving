@@ -7,6 +7,6 @@ sheild = int(input())
 
 
 
-print ("your lives" +str (live) * str(.))
-print ("energy level" +str (energy*@))
-print ("sheild" +str (sheild*@))
+print ("your lives" +str (live)
+print ("energy level" +str (energy)
+print ("sheild" +str (sheild)
